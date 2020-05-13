@@ -2,7 +2,7 @@ Unity Fast Paced Multiplayer
 
 
 ### Architecture
-![Overview](https://github.com/proepkes/UnityLockstep/Docs/Overview.svg "Overview")
+![Overview](https://github.com/proepkes/UnityLockstep/blob/master/Docs/Overview.svg "Overview")
 ===
 https://github.com/proepkes/UnityLockstep/raw/master/Docs/Overview.svg?sanitize=true
 *A Unity project to build the base functionality for a Authoritative Server, with Lag Compensation, Client side Prediction/Server side Reconciliation and Entity Interpolation*
